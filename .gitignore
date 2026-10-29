@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Local / generated artifacts (regenerable via the code)
+method_cache.json
+results.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
